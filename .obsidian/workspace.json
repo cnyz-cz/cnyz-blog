@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "强基化学坐牢笔记.md",
+                "file": "学习笔记/强基/强基化学坐牢笔记.md",
                 "mode": "source",
                 "source": false
               },
@@ -166,9 +166,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "421bb9dd1d41c193",
+  "active": "94ada4d4360cf539",
   "lastOpenFiles": [
-    "强基化学坐牢笔记.md",
+    "学习笔记/强基",
+    "学习笔记",
+    "学习笔记/强基/强基化学坐牢笔记.md",
     "cnyz-blog",
     "Welcome.md"
   ]
