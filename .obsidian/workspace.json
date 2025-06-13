@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d0f1f708f9cb1a6e",
+        "id": "691575bef27cc95e",
         "type": "tabs",
         "children": [
           {
-            "id": "421bb9dd1d41c193",
+            "id": "2b85de460533ccf5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -166,16 +166,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "421bb9dd1d41c193",
+  "active": "2b85de460533ccf5",
   "lastOpenFiles": [
-    "Pasted image 20250613185754.png",
-    "学习笔记/强基/化学学习笔记 3 化反原理.md",
+    "Pasted image 20250613190130.png",
     "学习笔记/强基/化学学习笔记 2 元素.md",
+    "学习笔记/强基/化学学习笔记 3 化反原理.md",
+    "学习笔记/强基/化学学习笔记 1 结构.md",
+    "Pasted image 20250613185754.png",
     "Pasted image 20250612202443.png",
     "Pasted image 20250612201733.png",
     "Pasted image 20250612193856.png",
     "Pasted image 20250612193505.png",
-    "学习笔记/强基/化学学习笔记 1 结构.md",
     "学习笔记/强基",
     "学习笔记",
     "cnyz-blog",
