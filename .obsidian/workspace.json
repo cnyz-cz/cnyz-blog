@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "学习笔记/强基/2024 北大强基 数学 做题笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "2024 北大强基 数学 做题笔记"
             }
           }
         ]
@@ -166,9 +166,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "94ada4d4360cf539",
+  "active": "381dc35dded078d7",
   "lastOpenFiles": [
     "未命名.md",
+    "学习笔记/强基/2024 北大强基 数学 做题笔记.md",
     "学习笔记/强基/化学学习笔记 2 元素.md",
     "学习笔记/强基/化学学习笔记 2 化反原理.md",
     "学习笔记/强基/化学学习笔记 1 结构.md",
