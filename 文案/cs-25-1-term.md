@@ -23,9 +23,9 @@
 |               赛事名                |  举办地  |          冠军          |         亚军         |    时间     |
 | :------------------------------: | :---: | :------------------: | :----------------: | :-------: |
 |     YaLLa Compass Qatar 2025     |  线上   | Natus Vincere Junior |        ENCE        | 4.17-4.20 |
-|    CCT Season 2 Global Finals    |  线上   |        HEROIC        |         B8         |           |
-| MESA Nomadic Masters Spring 2025 | 乌兰巴托  |        HEROIC        |        BIG         |           |
-|   Asian Champions League 2025    | 盐城、上海 |        TYLOO         | Lynn Vision Gaming |           |
+|    CCT Season 2 Global Finals    |  线上   |        HEROIC        |         B8         | 4.24-4.27 |
+| MESA Nomadic Masters Spring 2025 | 乌兰巴托  |        HEROIC        |        BIG         | 4.30-5.4  |
+|   Asian Champions League 2025    | 盐城、上海 |        TYLOO         | Lynn Vision Gaming | 5.6-5.16  |
 不计入女赛，大家懂得都懂。
 ### B 级赛事
 为什么要计入 B 级赛事？这之中有很多的二线强队，实际上夺得 1-2 个 B 级冠军就有挑战强队的机会（Legacy、LVG 等等）。并且这也会为接下来的个人排名（叫 **N 榜排名** 吧）做一个参考，以及也为大家跟踪某些队伍的成长做一个基础。
@@ -34,3 +34,4 @@
 | :--------------------------: | :-: | :----: | :----: |
 | Frost and Fire South America | 线上  | BESTIA | Legacy |
 |    Frost and Fire Europe     |     |        |        |
+|                              |     |        |        |
