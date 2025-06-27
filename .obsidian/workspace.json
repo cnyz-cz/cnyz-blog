@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文案/cs-25-1-term.md",
+                "file": "学习笔记/强基/Self-Intro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cs-25-1-term"
+              "title": "Self-Intro"
             }
           }
         ]
@@ -168,8 +168,8 @@
   },
   "active": "d8310a2b65bb4e6a",
   "lastOpenFiles": [
-    "文案/comment-on-25-math.md",
     "文案/cs-25-1-term.md",
+    "文案/comment-on-25-math.md",
     "学习笔记/强基/Self-Intro.md",
     "文案",
     "学习笔记/强基/物理学习笔记.md",

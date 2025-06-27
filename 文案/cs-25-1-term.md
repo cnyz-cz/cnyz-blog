@@ -18,6 +18,11 @@
 |      BLAST.tv Austin Major 2025      |      奥斯汀      | Team Vitality | The MongolZ  |  Zywoo  |
 这里尤其要说明的是，不同的 S 赛之间亦有差距，这些将会在后续对队伍锐评的时候分出类别。
 ### A 级赛事
-| 赛事名 | 举办地 | 冠军  | 亚军  |
-| :-: | :-: | :-: | :-: |
-|     |     |     |     |
+今年的 A 级赛事相对较少。
+
+|               赛事名                | 举办地  |          冠军          |  亚军  |
+| :------------------------------: | :--: | :------------------: | :--: |
+|     YaLLa Compass Qatar 2025     |  线上  | Natus Vincere Junior | ENCE |
+|    CCT Season 2 Global Finals    |  线上  |        HEROIC        |  B8  |
+| MESA Nomadic Masters Spring 2025 | 乌兰巴托 |        HEROIC        | BIG  |
+|                                  |      |                      |      |
