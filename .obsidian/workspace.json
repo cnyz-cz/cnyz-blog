@@ -11,32 +11,13 @@
             "id": "d8310a2b65bb4e6a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "学习笔记/强基/Self-Intro.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Self-Intro"
-            }
-          },
-          {
-            "id": "8b0182a20b980540",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "draft.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "draft"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,10 +162,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8b0182a20b980540",
+  "active": "d8310a2b65bb4e6a",
   "lastOpenFiles": [
-    "学习笔记/强基/Self-Intro.md",
     "draft.md",
+    "学习笔记/强基/Self-Intro.md",
     "文案/comment-on-25-math.md",
     "文案/cs-25-1-term.md",
     "学习笔记/强基/化学学习笔记 1 结构.md",
