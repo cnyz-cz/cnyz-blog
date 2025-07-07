@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "aaffc340bd091b96",
+        "id": "cc7aabc2f63098eb",
         "type": "tabs",
         "children": [
           {
-            "id": "8cd915fdddc120cd",
+            "id": "959138496733d1a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "draft.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "draft"
+              "title": "新标签页"
             }
           }
         ]
@@ -166,7 +162,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8cd915fdddc120cd",
+  "active": "959138496733d1a6",
   "lastOpenFiles": [
     "文案/cs-25-1-term.md",
     "文案/comment-on-25-math.md",
