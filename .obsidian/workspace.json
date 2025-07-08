@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "draft.md",
+                "file": "题解/CF Records ep.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "draft"
+              "title": "CF Records ep.1"
             }
           }
         ]
@@ -166,12 +166,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9f257e715e6d752c",
+  "active": "94ada4d4360cf539",
   "lastOpenFiles": [
+    "draft.md",
     "文案/未命名.md",
     "题解/CF Records ep.1.md",
     "文案/学习技巧啥的.md",
-    "draft.md",
     "文案/cs-25-1-term.md",
     "文案/comment-on-25-math.md",
     "题解",
