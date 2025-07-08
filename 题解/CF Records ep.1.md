@@ -23,3 +23,4 @@ Claim：最多两步即可。
 然后发现 $O(n^2)$ 过不去，于是尝试钦定 $j=i+1$ 然后过了，$O(n)$。
 ### 5. F [Appending Permutations](https://codeforces.com/contest/2124/problem/F1)
 记 $f_{i,j}$ 表示填完 $i$ 的后缀，满足 $i$ 位为 $j$ 的方案数。
+预处理 $c_{i,j}$ 使得
