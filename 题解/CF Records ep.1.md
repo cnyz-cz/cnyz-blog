@@ -24,4 +24,4 @@ Claim：最多两步即可。
 ### 5. F [Appending Permutations](https://codeforces.com/contest/2124/problem/F1)
 复读官方题解。
 记 $f_{i,j}$ 表示填完 $i$ 的后缀，满足 $i$ 位为 $j$ 的方案数。
-预处理 $c_{i,j}$ 使得其为最大的，使得 $j$ 向后延申 $c_{i,j}$ 等差数列
+预处理 $c_{i,j}$ 使得其为最大的，使得 $j$ 向后延伸以 $c_{i,j}$ 为开头的等差数列
