@@ -22,4 +22,4 @@ Claim：最多两步即可。
 于是尝试枚举两步的断点 $i,j$，那么我们可以解出六段数的和，通过这个可以直接构造出答案。
 然后发现 $O(n^2)$ 过不去，于是尝试钦定 $j=i+1$ 然后过了，$O(n)$。
 ### 5. F [Appending Permutations](https://codeforces.com/contest/2124/problem/F1)
-记 $f_{i,j}$ 表示
+记 $f_{i,j}$ 表示填完 $i$ 的后缀，满足 $i$ 位为 $j$ 的方案数。
