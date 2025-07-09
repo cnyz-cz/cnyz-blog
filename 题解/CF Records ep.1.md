@@ -32,6 +32,8 @@ Claim：最多两步即可。
 - $f_{i,>1}$，答案为 $suf_{i+1,j}-suf_{i+1+c_{i,j},j}$，差分去除掉违反限制的方案。
 $O(n^2)$。
 ## Edu CFR 180
-### E. [Tree Colorings](https://codeforces.com/contest/2112/problem/E)
+### 6. E [Tree Colorings](https://codeforces.com/contest/2112/problem/E)
 给一棵树的情况下，记 $f_{i}$ 表示 $i$ 染色为绿色的总方案数，那么可以得到 $f_u=\prod_{v\in son(u)} (f_v+2)$。
 基于此考虑直接递推 $g_i$ 表示凑出 $i$ 的最小方案，则 $g_i=\min_{x|i} g_{x-2}+g_{i/x}$。
+容易枚举倍数做到 $O(n\log n)$。
+### 7. F [Variables and Operations](https://codeforces.com/contest/2112/problem/F)
