@@ -37,3 +37,4 @@ $O(n^2)$。
 基于此考虑直接递推 $g_i$ 表示凑出 $i$ 的最小方案，则 $g_i=\min_{x|i} g_{x-2}+g_{i/x}$。
 容易枚举倍数做到 $O(n\log n)$。
 ### 7. F [Variables and Operations](https://codeforces.com/contest/2112/problem/F)
+$a_{x_i}\to \min(a_{x_i},a_{y_i}+z_i)$ 本质上是 $(x_i,y_i,z_i)$ 
