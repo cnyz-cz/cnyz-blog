@@ -13,3 +13,11 @@ Source: JOISC 2016 Day 2
 $O(\sum |S|)$。
 ### 3. [Territory](https://qoj.ac/contest/392/problem/3149)
 Source: JOI 2016 Final
+有参考代码。
+可以首先模拟出第一轮每一个 $(x_i,y_i)$，接下来考虑怎么做。
+模拟得到最终的向量 $(\Delta x,\Delta y)$，那么令 $x_i=x_i'+t\Delta x,y_i=y_i'+t\Delta y$，取 $x_i'\in[0,\Delta x)$，于是我们将 $(x_i,y_i)$ 转化到 $(x_i',y_i')$，每个点可以对应的 $t$ 恰是一段区间 $[t_m,t_m+k-1]$。
+枚举右上端点 $(x_i,y_i)$，对 $(x_i+1,y_i),(x_i,y_i+1),(x_i+1,y_i+1)$ 对应的 $t$ 分别做区间求交即可得到答案。
+时间复杂度 $O(n\log n)$。
+细节：
+1. $x_i=\Delta x-1$ 时，需要注意此时对应的 $(0,y_i-\Delta y)$，减掉的原因是对应求 $t$ 时的坐标转换，记得对应的 $t$ 区间也需要整体相减。
+2. $t$ 可以为负数，set 交区间初始左端点要设成 $-n$ 而非 $0$。
