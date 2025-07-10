@@ -1,3 +1,4 @@
+收录ge'da
 ### 1. [Kinoman](https://szkopul.edu.pl/problemset/problem/k-RYEjhwNTo_XdaCidXQUGMU/site/)
 Source: POI 2015 Stage 1
 枚举 $r$ 考虑维护对应 $l$ 的答案。

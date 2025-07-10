@@ -11,10 +11,14 @@
             "id": "ee21f362142ece2c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "题解/OI Contest Records ep.1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "OI Contest Records ep.1"
             }
           }
         ]
