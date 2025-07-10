@@ -1,5 +1,5 @@
 ### 1. [Kinoman](https://szkopul.edu.pl/problemset/problem/k-RYEjhwNTo_XdaCidXQUGMU/site/)
-Source: 22nd POI (2015) Stage 1
+Source: POI 2015 Stage 1
 枚举 $r$ 考虑维护对应 $l$ 的答案。
 只需要维护上一个种类相同的位置，支持区间加，区间 max 即可，容易使用线段树维护。
 $O(n\log n)$。
@@ -11,3 +11,5 @@ Source: JOISC 2016 Day 2
 由于不满度取的是 $\max$，其实基于贪心会发现我们一定会把后面的 `M` 提到第一个，这样一定最优。
 然后就发现求答案等价于求最小后缀和，把后面的 `M` 挨个甩到前面去就行。
 $O(\sum |S|)$。
+### 3. [Territory](https://qoj.ac/contest/392/problem/3149)
+Source: JOI 2016 Final
