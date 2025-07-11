@@ -240,4 +240,7 @@ $f(a)$ 随选择区间的不同会有变化，试问可以产生多少种不同�
 |   5   |     A     | $16$ |
 |   6   |     B     | $16$ |
 |   7   |     无     | $36$ |
-特殊性质
+特殊性质 A：不存在 $i<j<k<l$，使得 $a_i=a_k,a_j=a_l,a_i\not=a_j$。
+特殊性质 B：不存在 $i<j<k$，使得 $a_i=a_j=a_k$。
+
+<div style="page-break-after:always"></div>
