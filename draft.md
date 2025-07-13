@@ -13,3 +13,26 @@
 
 
 -------------------------------
+```
+Chinese
+Mathematics
+English
+Physics
+Chemistry
+Biology
+History
+Politics
+Geography
+ArtLesson
+PhysicalEducation
+Activities
+ClassMeeting
+Psychology
+GeneralTechnology
+InquiryBasedLearning
+Reading
+Electives
+SelfStudy
+-----------------
+nhlsmti
+```
