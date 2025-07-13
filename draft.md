@@ -34,5 +34,4 @@ Reading
 Electives
 SelfStudy
 -----------------
-nhlsmti
 ```
